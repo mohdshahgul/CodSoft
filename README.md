@@ -6,7 +6,7 @@ This repository consists of three machine learning projects developed as part of
 ### Overview
 Predicting the survival status of passengers on the Titanic based on various features. The dataset underwent preprocessing steps, including duplicate removal, missing value treatment and model building using Logistic Regression, Random Forest, Gradient Boosting, XGBoost and AdaBoost.
 
-### Files
+### File
 - **TITANIC SURVIVAL PREDICTION.ipynb**: Jupyter Notebook containing the code.
 
 ## 2. Iris Flower Prediction
@@ -14,7 +14,7 @@ Predicting the survival status of passengers on the Titanic based on various fea
 ### Overview
 Predicting the species of Iris flowers based on features like sepal length, sepal width, petal length and petal width. The project involves duplicate removal, outlier treatment, label encoding and model building using Random Forest.
 
-### Files
+### File
 - **Iris Flower.ipynb**: Jupyter Notebook containing the code.
 
 ## 3. Credit Card Fraud Detection Prediction
@@ -22,7 +22,7 @@ Predicting the species of Iris flowers based on features like sepal length, sepa
 ### Overview
 Predicting credit card fraud using transaction data. The project includes duplicate removal, missing value check, outlier treatment, data scaling, data balancing data and model building using Logistic Regression.
 
-### Files
+### File
 - **Credit Card Fraud Detection.ipynb**: Jupyter Notebook containing the code.
 
 ## Data: 
