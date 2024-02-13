@@ -1,5 +1,5 @@
 # CodSoft
-This repository consists of three machine learning projects developed as part of the CodSoft task. Each project focuses on different aspects of predictive modeling and includes detailed documentation in separate Jupyter Notebooks. Below is an overview of each project along with links to their respective notebooks:
+This repository consists of three machine learning projects developed as part of the CodSoft task. Each project focuses on different aspects of predictive modeling and includes detailed documentation in separate Jupyter Notebooks.
 
 ## 1. Titanic Survival Prediction
 
