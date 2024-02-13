@@ -16,28 +16,28 @@ The dataset was split into training and testing sets to evaluate model performan
 ### 4. Model Building
 The following machine learning models were employed:
 
-a. Logistic Regression
+##### a. Logistic Regression
 Accuracy Score (Training): 78.33%
 Accuracy Score (Testing): 76.49%
 Recall Score (Training): 82.88%
 Recall Score (Testing): 82.43%
 Precision Score (Training): 52.38%
 Precision Score (Testing): 54.95%
-b. Random Forest
+##### b. Random Forest
 Accuracy Score (Training): 87.16%
 Accuracy Score (Testing): 80.97%
 Recall Score (Training): 87.94%
 Recall Score (Testing): 81.25%
 Precision Score (Training): 75.76%
 Precision Score (Testing): 70.27%
-c. Gradient Boosting
+##### c. Gradient Boosting
 Accuracy Score (Training): 92.30%
 Accuracy Score (Testing): 80.60%
 Recall Score (Training): 94.20%
 Recall Score (Testing): 79.80%
 Precision Score (Training): 84.42%
 Precision Score (Testing): 71.17%
-d. XGBoost
+##### d. XGBoost
 Accuracy Score (Training): 82.50%
 Accuracy Score (Testing): 80.60%
 Recall Score (Training): 78.50%
