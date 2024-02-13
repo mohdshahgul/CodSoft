@@ -30,4 +30,4 @@ The Random Forest model was employed for this project, achieving good results on
 - Accuracy: 91%
 
 ## Conclusion
-The Random Forest model demonstrated good performance on both the training and testing sets. Users are encouraged to explore additional features, hyperparameter tuning, and other advanced techniques to further improve the model. The project provides a foundation for understanding and predicting the species of Iris flowers based on the given features.
+The Random Forest model demonstrated good performance on both the training and testing sets. The project provides a foundation for understanding and predicting the species of Iris flowers based on the given features.
