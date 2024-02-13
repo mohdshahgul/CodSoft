@@ -1,7 +1,7 @@
 # CodSoft
 This repository consists of three machine learning projects developed as part of the CodSoft task. Each project focuses on different aspects of predictive modeling and includes detailed documentation in separate Readme File (.md).
 
-## 1. Titanic Survival Prediction
+## 1. Titanic Survival Prediction 
 
 ### Overview
 Predicting the survival status of passengers on the Titanic based on various features. The dataset underwent preprocessing steps, including duplicate removal, missing value treatment and model building using Logistic Regression, Random Forest, Gradient Boosting, XGBoost and AdaBoost.
