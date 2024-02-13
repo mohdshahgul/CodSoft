@@ -26,6 +26,6 @@ Predicting credit card fraud using transaction data. The project includes duplic
 - **Credit Card Fraud Detection.ipynb**: Jupyter Notebook containing the code.
 
 ## Data: 
-Folder containing the datasets of Titanic Survival prediction and Iris Flower used in the projects and Credit Card Fraud Detection Dataset link "https://www.google.com/url?q=https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud&sa=D&source=apps-viewer-frontend&ust=1707936380974013&usg=AOvVaw1vmOmFpYt8ZNywSId1bDaZ&hl=en-GB". 
+- Folder containing the datasets of Titanic Survival prediction and Iris Flower used in the projects and Credit Card Fraud Detection Dataset link "https://www.google.com/url?q=https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud&sa=D&source=apps-viewer-frontend&ust=1707936380974013&usg=AOvVaw1vmOmFpYt8ZNywSId1bDaZ&hl=en-GB". 
 ## Conclusion:
 These projects collectively showcase a range of machine learning techniques for predictive modeling in different domains.
